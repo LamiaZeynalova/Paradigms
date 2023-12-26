@@ -1,0 +1,12 @@
+PARADIQMA
+M?s?l?y? yanaþma t?rzin? paradiqma dey? bil?rik. Bunlara bizim kod yazark?n istifad? etdiyimiz metodlar da dem?k olar.
+Paradiqma iki ?sas qrupa bolunur :“Ýmperativ” lik v? “Deklarativ” lik. 
+
+
+     Ýmperativ programlaþdýrma, bir programlaþdýrma dilind?ki ?mrl?rin s?tir-b?-s?tir verilm?sidir v? ya bir iþin adým-adým görülm?sidir.
+Ýmperativ paradiqmaya klassik paradiqma da deyilir çünki ilk yaranan proqramlaþdýrma dill?ri (M?s?l?n: C v? Pascal) bu paradiqmada kod yazmaðý asanlaþdýrýrdý. H?mçinin kompüterin beyni, y?ni CPU, ?mrl?ri imperativ paradiqma üslubu il? q?bul edir.
+    Deklarativ paradiqma proqramýn gediþatý haqqýndada danýþmadan hesablamanýn n?tic?sini qaytaran proqramlaþdýrma t?rzidir.
+G?lin marketd?n h?r hansi bir m?hsul almaða impetariv ve deklarativ yoldan yanaþaq.
+Bu m?s?l?y? imperativ yanaþaq :
+“?ynini geyin -> evd?n çix-> maðazaya get-> mehsulu seç -> m?hsulu al-> ev? qayit….. bu formada h?r addýmý bildirm?liyik”
+Ancaq deklarativ paradiqmada biz? lazým olan  m?hsulu vers?k arxada hansý prosesl?rin bas vermesini görm?d?n biz? lazýn olan m?hsulu ver?c?k 
